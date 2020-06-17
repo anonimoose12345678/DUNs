@@ -1,5 +1,9 @@
 # Depth Uncertainty in Neural Networks
 
+<p align="center">
+<img align="middle" src="./dun_training.gif" width="573" height="272" alt="Training a 10 layer DUN on our toy 'Matern' dataset."/>
+</p>
+
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-376/)
 [![Pytorch 1.3](https://img.shields.io/badge/pytorch-1.3.1-blue.svg)](https://pytorch.org/)
 
